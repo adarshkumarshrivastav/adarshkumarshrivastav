@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -33,7 +32,7 @@ Personal portfolio website built with **TypeScript & modern web technologies**.
 A **machine learning project** to detect fraudulent transactions.
 
 ### 🤖 [Chat Bot Project](https://github.com/adarshkumarshrivastav/Chat_bot_project)
-AI-powered chatbot built using **Kotlin**.
+AI-powered chatbot built using **Python**.
 
 ### 🏡 [Homestay Travel Packages Web App](https://github.com/adarshkumarshrivastav/Homestay-Travel-Packages-Web-App-Project)
 A **JavaScript web app** for booking homestay and travel packages.
